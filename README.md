@@ -3,7 +3,7 @@
 For testing hawkscan GRPC and protobuf capabilities.
 
 
-## Development
+## Development     
 
 This is a gradle base project, use `./gradlew tasks` command to see all available options.
 
